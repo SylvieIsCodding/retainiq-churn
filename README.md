@@ -1,1 +1,1 @@
-# retainiq-churn
+# retainiq-churn project
