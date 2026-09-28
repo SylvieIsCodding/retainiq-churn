@@ -220,5 +220,6 @@ __marimo__/
 # RetainIQ
 models/*.pkl
 data/*.csv
-figures/
-outputs/
+outputs/*
+!outputs/.gitkeep
+!outputs/.gitkeep
