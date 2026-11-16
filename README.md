@@ -159,7 +159,7 @@ retainiq-churn-prediction/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/retainiq-churn.git
+git clone https://github.com/SylvieIsCodding/retainiq-churn.git
 cd retainiq-churn-prediction
 
 python3 -m venv venv
